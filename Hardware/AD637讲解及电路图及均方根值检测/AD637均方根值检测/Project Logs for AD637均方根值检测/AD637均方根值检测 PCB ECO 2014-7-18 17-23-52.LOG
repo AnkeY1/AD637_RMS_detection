@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=+5V Pin=C9-1
+Removed Pin From Net: NetName=AGND Pin=C9-2
+Removed Pin From Net: NetName=AGND Pin=C11-1
+Removed Pin From Net: NetName=NetR4_2 Pin=C11-2
+Change Component Designator: OldDesignator=C11 NewDesignator=C9
+Added Component: Designator=D3(3.2X1.6X1.1)
+Added Component: Designator=D4(3.2X1.6X1.1)
+Added Component: Designator=R5(0805)
+Added Component: Designator=R6(0805)
+Added Pin To Net: NetName=+5V Pin=C9-1
+Added Pin To Net: NetName=AGND Pin=C9-2
+Added Pin To Net: NetName=+5V Pin=D3-1
+Added Pin To Net: NetName=-5V Pin=D4-2
+Added Pin To Net: NetName=AGND Pin=R5-2
+Added Pin To Net: NetName=AGND Pin=R6-2
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=NetD3_2 Pin=R5-1
+Added Net: Name=NetD3_2
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=NetD4_1 Pin=R6-1
+Added Net: Name=NetD4_1
+Added Member To Class: ClassName=AD637均方根值检测 Member=Component D3 LED2
+Added Member To Class: ClassName=AD637均方根值检测 Member=Component D4 LED2
+Added Member To Class: ClassName=AD637均方根值检测 Member=Component R5 Res2
+Added Member To Class: ClassName=AD637均方根值检测 Member=Component R6 Res2
+Added Room: Name=AD637均方根值检测
